@@ -70,7 +70,7 @@ var client = new Keen({
 
 client.addEvent('product_views', {
     "path": "/products/1800-summer-pants",
-    "product_id": "1800"",
+    "product_id": "1800",
     "product_name": "Summer Pants",
     "product_price": 69.99,
     "user": {
